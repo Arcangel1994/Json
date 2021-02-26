@@ -14,5 +14,29 @@
 "page": "home",
 "position": 2,
 "status": 1
+},
+{
+"id": 3,
+"name": "first",
+"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/MISION-1536x1024.jpg",
+"page": "company",
+"position": 1,
+"status": 1
+},
+{
+"id": 4,
+"name": "second",
+"src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/nosotros-agrifarm.jpg",
+"page": "company",
+"position": 2,
+"status": 1
+},
+{
+"id": 5,
+"name": "third ",
+"src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/PRODUCTOS.jpg",
+"page": "company",
+"position": 3,
+"status": 1
 }
 ]
