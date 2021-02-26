@@ -1,0 +1,18 @@
+[
+{
+"id": 1,
+"name": "first",
+"src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/juntos.jpg",
+"page": "home",
+"position": 1,
+"status": 1
+},
+{
+"id": 2,
+"name": "second",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2016/10/NUTRUCION.jpg",
+"page": "home",
+"position": 2,
+"status": 1
+}
+]
