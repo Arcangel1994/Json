@@ -3,6 +3,7 @@
 "id": 1,
 "name": "first",
 "src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/juntos.jpg",
+"description": "",
 "page": "home",
 "position": 1,
 "status": 1
@@ -11,32 +12,45 @@
 "id": 2,
 "name": "second",
 "src": "https://agrifarm.com.mx/wp-content/uploads/2016/10/NUTRUCION.jpg",
+"description": "",
 "page": "home",
 "position": 2,
 "status": 1
 },
 {
 "id": 3,
-"name": "first",
+"name": "mision",
 "src": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/MISION-1536x1024.jpg",
+"description": "\r\nEs una empresa filial del grupo GILSA fundada hace más de 20 años, nace de la necesidad de los socios del grupo Gilsa por contar con una empresa que otorgara todos los servicios e insumos de calidad para sus explotaciones.",
 "page": "company",
 "position": 1,
 "status": 1
 },
 {
 "id": 4,
-"name": "second",
+"name": "ideologia mision",
 "src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/nosotros-agrifarm.jpg",
+"description": "Satisfacer las necesidades de nuestros clientes con insumos, productos y servicio de calidad basados en tecnología innovadora.",
 "page": "company",
 "position": 2,
 "status": 1
 },
 {
 "id": 5,
-"name": "third ",
+"name": "ideologia vision",
 "src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/PRODUCTOS.jpg",
+"description": "Ser la empresa comercializadora de insumos y productos agrícolas mas exitosa del mercado, reconocida por nuestros consumidores y clientes.",
 "page": "company",
 "position": 3,
+"status": 1
+},
+{
+"id": 6,
+"name": "nuestro equipo",
+"src": "https://optimus-host.com/agrifarm/wp-content/uploads/elementor/thumbs/nuestro-equipo-scaled-p21vzkivwr9tp1leyh5ulywcihqh72z6zndzvb1zc0.jpg",
+"description": "Está conformado por ingenieros Agrónomos, Médicos Veterinarios, Ingenieros químicos, ingenieros electrónicos, Contadores públicos, administradores, compartiendo sus conocimientos mediante su servicio técnico especializado y su atención al cliente.",
+"page": "company",
+"position": 4,
 "status": 1
 }
 ]
