@@ -38,7 +38,7 @@
 {
 "id": 5,
 "name": "ideologia vision",
-"src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/PRODUCTOS.jpg",
+"src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/nosotros-agrifarm.jpg",
 "description": "Ser la empresa comercializadora de insumos y productos agrícolas mas exitosa del mercado, reconocida por nuestros consumidores y clientes.",
 "page": "company",
 "position": 3,
@@ -51,6 +51,15 @@
 "description": "Está conformado por ingenieros Agrónomos, Médicos Veterinarios, Ingenieros químicos, ingenieros electrónicos, Contadores públicos, administradores, compartiendo sus conocimientos mediante su servicio técnico especializado y su atención al cliente.",
 "page": "company",
 "position": 4,
+"status": 1
+},
+{
+"id": 7,
+"name": "image",
+"src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/PRODUCTOS.jpg",
+"description": "Es una empresa filial del grupo GILSA fundada hace más de 20 años.",
+"page": "contact",
+"position": 1,
 "status": 1
 }
 ]
