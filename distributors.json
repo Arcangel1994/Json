@@ -1,0 +1,114 @@
+[
+{
+"id": 1,
+"name": "Zoetis",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Zoetis.fw_.png",
+"src_page": "https://www.zoetis.mx/",
+"position": 1,
+"status": 1
+},
+{
+"id": 2,
+"name": "Wittney",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/wittney.fw_.png",
+"src_page": "https://wittney.com.mx/",
+"position": 2,
+"status": 1
+},
+{
+"id": 3,
+"name": "Syva",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/syva.fw_.png",
+"src_page": "https://www.syva.es/",
+"position": 3,
+"status": 1
+},
+{
+"id": 4,
+"name": "Senosiain",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Senosiain.fw_.png",
+"src_page": "http://senosiain.mx/",
+"position": 4,
+"status": 1
+},
+{
+"id": 5,
+"name": "Schutze Segen",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Schutze-Segen.fw_.png",
+"src_page": "http://www.schutze-segen.com/",
+"position": 5,
+"status": 1
+},
+{
+"id": 6,
+"name": "PiSA",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Pisa.fw_.png",
+"src_page": "https://www.pisa.com.mx/",
+"position": 6,
+"status": 1
+},
+{
+"id": 7,
+"name": "Mia",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Mia.fw_.png",
+"src_page": "",
+"position": 7,
+"status": 1
+},
+{
+"id": 8,
+"name": "Lapisa Salud Animal",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/LapisaSaludAnimal.fw_.png",
+"src_page": "http://www.lapisa.com/saludAnimal",
+"position": 8,
+"status": 1
+},
+{
+"id": 9,
+"name": "Hipra",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Hipra.fw_.png",
+"src_page": "https://www.hipra.com/portal/es/hipra/home",
+"position": 9,
+"status": 1
+},
+{
+"id": 10,
+"name": "Halvet",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Halvet.fw_.png",
+"src_page": "https://www.halvet.com/",
+"position": 10,
+"status": 1
+},
+{
+"id": 11,
+"name": "Farmatec",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/farmatec.fw_.png",
+"src_page": "http://www.farmatec.net/",
+"position": 11,
+"status": 1
+},
+{
+"id": 12,
+"name": "Chindin",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Chindin.fw_.png",
+"src_page": "https://www.chinoin.com/",
+"position": 12,
+"status": 1
+},
+{
+"id": 13,
+"name": "Brovel",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Brovel.fw_.png",
+"src_page": "",
+"position": 13,
+"status": 1
+},
+{
+"id": 14,
+"name": "Aranda",
+"src_image": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/Aranda.fw_.png",
+"src_page": "http://aranda.vet/",
+"position": 14,
+"status": 1
+}
+]
