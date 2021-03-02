@@ -4,6 +4,7 @@
 "name": "first",
 "src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/juntos.jpg",
 "description": "",
+"description_english": "",
 "page": "home",
 "position": 1,
 "status": 1
@@ -13,6 +14,7 @@
 "name": "second",
 "src": "https://agrifarm.com.mx/wp-content/uploads/2016/10/NUTRUCION.jpg",
 "description": "",
+"description_english": "",
 "page": "home",
 "position": 2,
 "status": 1
@@ -21,7 +23,8 @@
 "id": 3,
 "name": "mision",
 "src": "https://optimus-host.com/agrifarm/wp-content/uploads/2021/01/MISION-1536x1024.jpg",
-"description": "\r\nEs una empresa filial del grupo GILSA fundada hace más de 20 años, nace de la necesidad de los socios del grupo Gilsa por contar con una empresa que otorgara todos los servicios e insumos de calidad para sus explotaciones.",
+"description": "Es una empresa filial del grupo GILSA fundada hace más de 20 años, nace de la necesidad de los socios del grupo Gilsa por contar con una empresa que otorgara todos los servicios e insumos de calidad para sus explotaciones.",
+"description_english": "It is a subsidiary company of the GILSA group founded more than 20 years ago, born from the need of the members of the Gilsa group to have a company that provides all quality services and supplies for their explotación. ",
 "page": "company",
 "position": 1,
 "status": 1
@@ -31,6 +34,7 @@
 "name": "ideologia mision",
 "src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/nosotros-agrifarm.jpg",
 "description": "Satisfacer las necesidades de nuestros clientes con insumos, productos y servicio de calidad basados en tecnología innovadora.",
+"description_english": "Satisfy the needs of our clients with quality supplies, products, and services based on innovative technology. ",
 "page": "company",
 "position": 2,
 "status": 1
@@ -40,6 +44,7 @@
 "name": "ideologia vision",
 "src": "https://agrifarm.com.mx/wp-content/themes/agrifarm/images/nosotros-agrifarm.jpg",
 "description": "Ser la empresa comercializadora de insumos y productos agrícolas mas exitosa del mercado, reconocida por nuestros consumidores y clientes.",
+"description_english": "To be the most successful agricultural products and inputs trading company on the market, recognized by our consumers and clients. ",
 "page": "company",
 "position": 3,
 "status": 1
@@ -48,7 +53,8 @@
 "id": 6,
 "name": "nuestro equipo",
 "src": "https://optimus-host.com/agrifarm/wp-content/uploads/elementor/thumbs/nuestro-equipo-scaled-p21vzkivwr9tp1leyh5ulywcihqh72z6zndzvb1zc0.jpg",
-"description": "Está conformado por ingenieros Agrónomos, Médicos Veterinarios, Ingenieros químicos, ingenieros electrónicos, Contadores públicos, administradores, compartiendo sus conocimientos mediante su servicio técnico especializado y su atención al cliente.",
+"description": "Está conformado por ingenieros Agrónomos, Médicos Veterinarios, Ingenieros químicos, Ingenieros electrónicos, Contadores públicos, administradores, compartiendo sus conocimientos mediante su servicio técnico especializado y su atención al cliente.",
+"description_english": "It is made up of Agricultural Engineers, Veterinarians, Chemical engineers, Electronic engineers, Public accountants, administrators, sharing their knowledge through their specialized technical service and customer service. ",
 "page": "company",
 "position": 4,
 "status": 1
@@ -58,6 +64,7 @@
 "name": "image",
 "src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/09/logo.png",
 "description": "Es una empresa filial del grupo GILSA fundada hace más de 20 años.",
+"description_english": "It is a subsidiary company of the GILSA group founded more than 20 years ago.",
 "page": "contact",
 "position": 1,
 "status": 1
