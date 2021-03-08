@@ -1,0 +1,51 @@
+{
+"id": 2,
+"date_created": "2021-02-24T16:57:42",
+"date_created_gmt": "2021-02-24T16:57:42",
+"date_modified": "2021-02-24T17:04:47",
+"date_modified_gmt": "2021-02-24T17:04:47",
+"email": "miguel.angel.medina.1994@gmail.com",
+"first_name": "Angel",
+"last_name": "Soto",
+"role": "customer",
+"username": "miguel.angel.medina.1994",
+"password": null,
+"billing": {
+"first_name": "Angel",
+"last_name": "Soto",
+"company": "Agrifarm",
+"address_1": "San José del Arenal",
+"address_2": "Av Canal Interceptor 504",
+"city": "Aguascalientes",
+"state": "AG",
+"postcode": "20130",
+"country": "MX",
+"email": "miguel.angel.medina.1994@gmail.com",
+"phone": "4491234567"
+},
+"shipping": {
+"first_name": "Gabriel",
+"last_name": "Martinez",
+"company": "Agrifarm",
+"address_1": "San José del Arenal",
+"address_2": "Av Canal Interceptor 504",
+"city": "Aguascalientes",
+"state": "AG",
+"postcode": "20130",
+"country": "MX"
+},
+"is_paying_customer": true,
+"avatar_url": "http://2.gravatar.com/avatar/2459179d78f2325703f4698edb8b3880?s=96&d=mm&r=g",
+"meta_data": [
+{
+"id": 40,
+"key": "wc_last_active",
+"value": "1614124800"
+},
+{
+"id": 65,
+"key": "shipping_method",
+"value": ""
+}
+]
+}
