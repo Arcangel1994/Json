@@ -621,8 +621,8 @@
 "permalink": "http://localhost:8080/wordpress/producto/can-planet-adulto-25-kg/",
 "date_created": "2021-02-24T16:20:52",
 "date_created_gmt": "2021-02-24T16:20:52",
-"date_modified": "2021-02-24T16:45:23",
-"date_modified_gmt": "2021-02-24T16:45:23",
+"date_modified": "2021-03-16T18:49:45",
+"date_modified_gmt": "2021-03-16T18:49:45",
 "type": "simple",
 "status": "publish",
 "featured": true,
@@ -697,6 +697,39 @@
 "src": "http://localhost:8080/wordpress/wp-content/uploads/2021/02/66038-300x300-1.png",
 "name": "66038-300&#215;300",
 "alt": "CAN PLANET ADULTO 25 KG",
+"position": null
+},
+{
+"id": 66,
+"date_created": "2021-03-16T18:48:27",
+"date_created_gmt": "2021-03-16T18:48:27",
+"date_modified": "2021-03-16T18:48:27",
+"date_modified_gmt": "2021-03-16T18:48:27",
+"src": "http://localhost:8080/wordpress/wp-content/uploads/2021/02/66037_1.jpeg",
+"name": "66037_1",
+"alt": "",
+"position": null
+},
+{
+"id": 67,
+"date_created": "2021-03-16T18:48:33",
+"date_created_gmt": "2021-03-16T18:48:33",
+"date_modified": "2021-03-16T18:48:33",
+"date_modified_gmt": "2021-03-16T18:48:33",
+"src": "http://localhost:8080/wordpress/wp-content/uploads/2021/02/66037_2.jpeg",
+"name": "66037_2",
+"alt": "",
+"position": null
+},
+{
+"id": 68,
+"date_created": "2021-03-16T18:48:37",
+"date_created_gmt": "2021-03-16T18:48:37",
+"date_modified": "2021-03-16T18:48:37",
+"date_modified_gmt": "2021-03-16T18:48:37",
+"src": "http://localhost:8080/wordpress/wp-content/uploads/2021/02/66037_3.jpeg",
+"name": "66037_3",
+"alt": "",
 "position": null
 }
 ],
