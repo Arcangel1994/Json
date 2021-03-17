@@ -418,7 +418,7 @@
 "id": 48,
 "name": "PREPARTO PLUS 40 KG",
 "slug": "preparto-plus-40-kg",
-"permalink": "http://localhost:8080/wordpress/producto/preparto-plus-40-kg/",
+"permalink": "http://192.1.150.239:8080/wordpress/producto/preparto-plus-40-kg/",
 "date_created": "2021-02-24T16:33:12",
 "date_created_gmt": "2021-02-24T16:33:12",
 "date_modified": "2021-02-24T16:33:13",
