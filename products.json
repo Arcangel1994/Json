@@ -590,11 +590,33 @@
 "date_created_gmt": "2021-02-24T16:28:18",
 "date_modified": "2021-02-24T16:28:25",
 "date_modified_gmt": "2021-02-24T16:28:25",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/66037-300x300-1.png",
+"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/10/66037_1.jpg",
 "name": "66037-300&#215;300",
 "alt": "CAN PLANET CACHORRO 15 KG",
 "position": null
-}
+},
+{
+"id": 48,
+"date_created": "2021-02-24T16:28:18",
+"date_created_gmt": "2021-02-24T16:28:18",
+"date_modified": "2021-02-24T16:28:25",
+"date_modified_gmt": "2021-02-24T16:28:25",
+"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/10/66037_2.jpg",
+"name": "66037-300&#215;300",
+"alt": "CAN PLANET CACHORRO 15 KG",
+"position": null
+},
+{
+"id": 49,
+"date_created": "2021-02-24T16:28:18",
+"date_created_gmt": "2021-02-24T16:28:18",
+"date_modified": "2021-02-24T16:28:25",
+"date_modified_gmt": "2021-02-24T16:28:25",
+"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/10/66037_3.jpg",
+"name": "66037-300&#215;300",
+"alt": "CAN PLANET CACHORRO 15 KG",
+"position": null
+}  
 ],
 "attributes": [
 {
