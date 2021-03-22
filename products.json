@@ -1,138 +1,33 @@
+
 [
 {
-"id": 56,
-"name": "ZIPAMIX 10 KG AMEG",
-"slug": "zipamix-10-kg-ameg",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/zipamix-10-kg-ameg/",
-"date_created": "2021-02-24T16:56:05",
-"date_created_gmt": "2021-02-24T16:56:05",
-"date_modified": "2021-02-24T16:56:30",
-"date_modified_gmt": "2021-02-24T16:56:30",
+"id": 10366,
+"name": "",
+"slug": "",
+"permalink": "https://agrifarm.com.mx/?post_type=product&p=10366",
+"date_created": null,
+"date_created_gmt": null,
+"date_modified": "2021-01-29T00:25:04",
+"date_modified_gmt": "2021-01-29T00:25:04",
 "type": "simple",
-"status": "publish",
-"featured": true,
+"status": "draft",
+"featured": false,
 "catalog_visibility": "visible",
-"description": "<p>Información de producto<br />\nEspecificaciones técnicas<br />\nInformación general<br />\nNombre del producto THERAFLU EX DM VDE SOB C6<br />\nPeso 0.01 Kilogramos<br />\nUnidades 6 count<br />\nInstrucciones de almacenaje No<br />\nMarca Theraflu<br />\nInformación adicional<br />\nASIN B07FXRKRB6<br />\nOpinión media de los clientes 4.9 de 5 estrellas 19 calificaciones</p>\n<p>4.9 de 5 estrellas<br />\nClasificación en los más vendidos de Amazon nº14,039 en Salud y Cuidado Personal (Ver el Top 100 en Salud y Cuidado Personal)<br />\nnº24 en Medicamentos de Resfriado</p>\n",
+"description": "",
 "enable_html_description": null,
-"short_description": "<p>Acerca de este artículo</p>\n<p>Caja de cartón con 1, 6, 10, 12, 20 y 50 sobres impresos de 14.888 g sabor limón<br />\nAntigripales Excl; antiinfecci<br />\nPara el alivio de los síntomas del resfriado severo, como: Fiebre y escalofríos, Dolores musculares, Dolor de cabeza, Congestión nasal</p>\n",
+"short_description": "<p><br data-mce-bogus=\"1\"></p>\n",
 "enable_html_short_description": null,
-"sku": "567",
-"price": 16495,
-"regular_price": 16495,
+"sku": "",
+"price": null,
+"regular_price": null,
 "sale_price": null,
 "date_on_sale_from": null,
 "date_on_sale_from_gmt": null,
 "date_on_sale_to": null,
 "date_on_sale_to_gmt": null,
-"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>16495</bdi></span>",
+"price_html": "",
 "on_sale": false,
-"purchasable": true,
-"total_sales": 1,
-"_virtual": false,
-"downloadable": false,
-"downloads": [],
-"download_limit": -1,
-"download_expiry": -1,
-"external_url": "",
-"button_text": "",
-"tax_status": "taxable",
-"tax_class": "",
-"manage_stock": false,
-"stock_quantity": null,
-"stock_status": "instock",
-"backorders": "no",
-"backorders_allowed": false,
-"backordered": false,
-"sold_individually": false,
-"weight": null,
-"dimensions": {
-"length": "",
-"width": "",
-"height": ""
-},
-"shipping_required": true,
-"shipping_taxable": true,
-"shipping_class": "",
-"shipping_class_id": "0",
-"reviews_allowed": true,
-"average_rating": "0.00",
-"rating_count": 0,
-"related_ids": [
-54
-],
-"upsell_ids": [
-54
-],
-"cross_sell_ids": [],
-"parent_id": 0,
-"purchase_note": "",
-"categories": [
-{
-"id": 21,
-"name": "Medicina",
-"slug": "medicina"
-}
-],
-"tags": [],
-"images": [
-{
-"id": 57,
-"date_created": "2021-02-24T16:54:39",
-"date_created_gmt": "2021-02-24T16:54:39",
-"date_modified": "2021-02-24T16:55:06",
-"date_modified_gmt": "2021-02-24T16:55:06",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/100005-300x300-1.png",
-"name": "100005-300&#215;300",
-"alt": "ZIPAMIX 10 KG AMEG",
-"position": null
-}
-],
-"attributes": [
-{
-"id": 2,
-"name": "Farmacia",
-"position": 0,
-"visible": true,
-"variation": false,
-"options": [
-"Ganado"
-]
-}
-],
-"default_attributes": [],
-"variations": [],
-"grouped_products": [],
-"menu_order": 0,
-"meta_data": []
-},
-{
-"id": 54,
-"name": "ARETE MAXI GLOBAL S/N",
-"slug": "arete-maxi-global-s-n",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/arete-maxi-global-s-n/",
-"date_created": "2021-02-24T16:52:21",
-"date_created_gmt": "2021-02-24T16:52:21",
-"date_modified": "2021-02-24T16:52:21",
-"date_modified_gmt": "2021-02-24T16:52:21",
-"type": "simple",
-"status": "publish",
-"featured": false,
-"catalog_visibility": "visible",
-"description": "<p>Tempra 500mg Dolor y Fiebre contiene paracetamol (500mg), indicado como auxiliar para reducir la fiebre y aliviar el dolor.<br />\nDosis y modo de empleo: vía de administración oral. Adultos y niños mayores de 12 años, tomar 1 o 2 tabletas cada 4-6 horas, sin exceder 8 tabletas al día.<br />\nNo use Tempra 500mg durante el embarazo y la lactancia, ni administre a menores de 12 años. No use si usted presenta hipersensibilidad al paracetamol.<br />\nNo se deje al alcance de los niños. Si persisten las molestias, consulte a su médico. Conserve la caja bien cerrada a no más de 30ºC. No se automedique.<br />\nCaja con 20 tabletas. Fórmula: 500 mg de paracetamol.</p>\n",
-"enable_html_description": null,
-"short_description": "<p>Información de producto<br />\nEspecificaciones técnicas<br />\nInformación general<br />\nNombre del producto TEMPRA CAPLETS 500MG CAP C20<br />\nPeso 0.1 Kilogramos<br />\nUnidades 20 count<br />\nInstrucciones de almacenaje No<br />\nMarca Tempra<br />\nInformación adicional<br />\nASIN B074KGBF8M<br />\nOpinión media de los clientes 4.9 de 5 estrellas 240 calificaciones</p>\n<p>4.9 de 5 estrellas<br />\nClasificación en los más vendidos de Amazon nº840 en Salud y Cuidado Personal (Ver el Top 100 en Salud y Cuidado Personal)<br />\nnº6 en Alivio contra Dolor y Fiebre<br />\nProducto en Amazon.com.mx desde</p>\n",
-"enable_html_short_description": null,
-"sku": "1000",
-"price": 24.81,
-"regular_price": 25.99,
-"sale_price": 24.81,
-"date_on_sale_from": null,
-"date_on_sale_from_gmt": null,
-"date_on_sale_to": null,
-"date_on_sale_to_gmt": null,
-"price_html": "<del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>26</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>25</bdi></span></ins>",
-"on_sale": true,
-"purchasable": true,
+"purchasable": false,
 "total_sales": 0,
 "_virtual": false,
 "downloadable": false,
@@ -163,143 +58,14 @@
 "reviews_allowed": true,
 "average_rating": "0.00",
 "rating_count": 0,
-"related_ids": [
-56
-],
+"related_ids": [],
 "upsell_ids": [],
 "cross_sell_ids": [],
 "parent_id": 0,
 "purchase_note": "",
-"categories": [
-{
-"id": 21,
-"name": "Medicina",
-"slug": "medicina"
-}
-],
+"categories": [],
 "tags": [],
-"images": [
-{
-"id": 55,
-"date_created": "2021-02-24T16:51:36",
-"date_created_gmt": "2021-02-24T16:51:36",
-"date_modified": "2021-02-24T16:51:45",
-"date_modified_gmt": "2021-02-24T16:51:45",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/84001-300x300-1.png",
-"name": "84001-300&#215;300",
-"alt": "ARETE MAXI GLOBAL S/N",
-"position": null
-}
-],
-"attributes": [
-{
-"id": 2,
-"name": "Farmacia",
-"position": 0,
-"visible": true,
-"variation": false,
-"options": [
-"Ganado"
-]
-}
-],
-"default_attributes": [],
-"variations": [],
-"grouped_products": [],
-"menu_order": 0,
-"meta_data": []
-},
-{
-"id": 52,
-"name": "GILSA DESARROLLO I ROLADO 40 KG.",
-"slug": "gilsa-desarrollo-i-rolado-40-kg",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/gilsa-desarrollo-i-rolado-40-kg/",
-"date_created": "2021-02-24T16:43:30",
-"date_created_gmt": "2021-02-24T16:43:30",
-"date_modified": "2021-02-26T18:21:09",
-"date_modified_gmt": "2021-02-26T18:21:09",
-"type": "simple",
-"status": "publish",
-"featured": false,
-"catalog_visibility": "visible",
-"description": "<p>Información de producto<br />\nEspecificaciones técnicas<br />\nMarca Ambsunny<br />\nColor Vaca<br />\nDimensiones del paquete 25.4 x 17.78 x 3.05 cm; 322 g<br />\nMaterial Poliéster &amp; Mezcla de poliéster<br />\nPeso del producto 322 g<br />\nInformación adicional<br />\nASIN B086DB1MMS<br />\nOpinión media de los clientes 4.8 de 5 estrellas 9 calificaciones</p>\n<p>4.8 de 5 estrellas<br />\nProducto en Amazon.com.mx desde 22 mayo 2020<br />\nFabricante Ambsunny</p>\n",
-"enable_html_description": null,
-"short_description": "<p>Información de producto<br />\nEspecificaciones técnicas<br />\nMarca Ambsunny<br />\nColor Vaca<br />\nDimensiones del paquete 25.4 x 17.78 x 3.05 cm; 322 g<br />\nMaterial Poliéster &amp; Mezcla de poliéster<br />\nPeso del producto 322 g<br />\nInformación adicional<br />\nASIN B086DB1MMS<br />\nOpinión media de los clientes 4.8 de 5 estrellas 9 calificaciones</p>\n<p>4.8 de 5 estrellas<br />\nProducto en Amazon.com.mx desde 22 mayo 2020<br />\nFabricante Ambsunny</p>\n",
-"enable_html_short_description": null,
-"sku": "9",
-"price": 316,
-"regular_price": 316,
-"sale_price": null,
-"date_on_sale_from": null,
-"date_on_sale_from_gmt": null,
-"date_on_sale_to": null,
-"date_on_sale_to_gmt": null,
-"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>316</bdi></span>",
-"on_sale": false,
-"purchasable": true,
-"total_sales": 0,
-"_virtual": false,
-"downloadable": false,
-"downloads": [],
-"download_limit": -1,
-"download_expiry": -1,
-"external_url": "",
-"button_text": "",
-"tax_status": "taxable",
-"tax_class": "",
-"manage_stock": false,
-"stock_quantity": null,
-"stock_status": "outofstock",
-"backorders": "no",
-"backorders_allowed": false,
-"backordered": false,
-"sold_individually": false,
-"weight": null,
-"dimensions": {
-"length": "",
-"width": "",
-"height": ""
-},
-"shipping_required": true,
-"shipping_taxable": true,
-"shipping_class": "",
-"shipping_class_id": "0",
-"reviews_allowed": true,
-"average_rating": "0.00",
-"rating_count": 0,
-"related_ids": [
-48,
-50
-],
-"upsell_ids": [
-48
-],
-"cross_sell_ids": [
-48
-],
-"parent_id": 0,
-"purchase_note": "",
-"categories": [
-{
-"id": 20,
-"name": "Nutricion",
-"slug": "nutricion"
-}
-],
-"tags": [],
-"images": [
-{
-"id": 53,
-"date_created": "2021-02-24T16:43:03",
-"date_created_gmt": "2021-02-24T16:43:03",
-"date_modified": "2021-02-24T16:43:08",
-"date_modified_gmt": "2021-02-24T16:43:08",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/16041-300x300-1.png",
-"name": "16041-300&#215;300",
-"alt": "GILSA DESARROLLO I ROLADO 40 KG.",
-"position": null
-}
-],
+"images": [],
 "attributes": [],
 "default_attributes": [],
 "variations": [],
@@ -308,32 +74,32 @@
 "meta_data": []
 },
 {
-"id": 50,
-"name": "ADVANTAGE 22/18 20 KG",
-"slug": "advantage-22-18-20-kg",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/advantage-22-18-20-kg/",
-"date_created": "2021-02-24T16:39:21",
-"date_created_gmt": "2021-02-24T16:39:21",
-"date_modified": "2021-02-24T16:39:21",
-"date_modified_gmt": "2021-02-24T16:39:21",
+"id": 10302,
+"name": "BUFFERVER 950 ML",
+"slug": "bufferver-950-ml",
+"permalink": "https://agrifarm.com.mx/product/bufferver-950-ml/",
+"date_created": "2020-11-06T21:00:26",
+"date_created_gmt": "2020-11-06T21:00:26",
+"date_modified": "2021-03-19T23:36:46",
+"date_modified_gmt": "2021-03-19T23:36:46",
 "type": "simple",
 "status": "publish",
 "featured": false,
 "catalog_visibility": "visible",
-"description": "<p>Acerca de este artículo</p>\n<p>Calidad premium: forro de ducha 100% poliéster que sirve un uso saludable y de larga duración, aplicable a la decoración del hogar. tela superrepelente al agua tratado para dejar que el agua se mantenga en la superficie, rápido de repeler y secar.<br />\nDiseño elegante: el patrón de ganado de granja añade un toque clásico de la naturaleza a la decoración de tu baño.<br />\nMedidas: 71 pulgadas de largo y 152 cm de ancho. Incluye 12 ganchos de plástico. No necesita forro.<br />\nCuidado fácil: lavable a máquina y de secado rápido para su comodidad.<br />\nPersonalización: alfombrilla de baño a juego, alfombrilla de contorno, tapa de inodoro.</p>\n",
+"description": "<h4 align=\"justify\">Bufferver ® La alcalinidad del agua se presenta cuando el valor del pH es arriba de 8.0, sin embargo, para el caso de la mayoría de los plaguicidas, valores de pH de 6.0 o mayores pueden generar una reacción denominada Hidrólisis alcalina. Esta reacción rompe la molécula del ingrediente activo del plaguicida provocando así fallas en el control de las plagas.<br />\nBufferver ® es un producto que se utiliza para mantener el pH balanceado del agua.</h4>\n",
 "enable_html_description": null,
-"short_description": "<p>Información de producto<br />\nEspecificaciones técnicas<br />\nMarca Ambsunny<br />\nColor Vaca<br />\nDimensiones del paquete 25.4 x 17.78 x 3.05 cm; 322 g<br />\nMaterial Poliéster &amp; Mezcla de poliéster<br />\nPeso del producto 322 g<br />\nInformación adicional<br />\nASIN B086DB1MMS<br />\nOpinión media de los clientes 4.8 de 5 estrellas 9 calificaciones</p>\n<p>4.8 de 5 estrellas<br />\nProducto en Amazon.com.mx desde 22 mayo 2020<br />\nFabricante Ambsunny</p>\n",
+"short_description": "<h4 align=\"justify\">Bufferver ® es un producto que se utiliza para mantener el pH balanceado del agua.</h4>\n",
 "enable_html_short_description": null,
-"sku": "1800",
-"price": 1199,
-"regular_price": 1237.5,
-"sale_price": 1199,
+"sku": "87471",
+"price": 135.91,
+"regular_price": 135.91,
+"sale_price": null,
 "date_on_sale_from": null,
 "date_on_sale_from_gmt": null,
 "date_on_sale_to": null,
 "date_on_sale_to_gmt": null,
-"price_html": "<del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>1238</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>1199</bdi></span></ins>",
-"on_sale": true,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>135.91</bdi></span>",
+"on_sale": false,
 "purchasable": true,
 "total_sales": 0,
 "_virtual": false,
@@ -366,115 +132,11 @@
 "average_rating": "0.00",
 "rating_count": 0,
 "related_ids": [
-48,
-52
-],
-"upsell_ids": [
-48
-],
-"cross_sell_ids": [],
-"parent_id": 0,
-"purchase_note": "",
-"categories": [
-{
-"id": 20,
-"name": "Nutricion",
-"slug": "nutricion"
-}
-],
-"tags": [],
-"images": [
-{
-"id": 51,
-"date_created": "2021-02-24T16:36:02",
-"date_created_gmt": "2021-02-24T16:36:02",
-"date_modified": "2021-02-24T16:36:07",
-"date_modified_gmt": "2021-02-24T16:36:07",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/60015-300x300-1.png",
-"name": "60015-300&#215;300",
-"alt": "ADVANTAGE 22/18 20 KG",
-"position": null
-}
-],
-"attributes": [
-{
-"id": 1,
-"name": "Alimentos",
-"position": 1,
-"visible": true,
-"variation": false,
-"options": [
-"Sales Minerales"
-]
-}
-],
-"default_attributes": [],
-"variations": [],
-"grouped_products": [],
-"menu_order": 0,
-"meta_data": []
-},
-{
-"id": 48,
-"name": "PREPARTO PLUS 40 KG",
-"slug": "preparto-plus-40-kg",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/preparto-plus-40-kg/",
-"date_created": "2021-02-24T16:33:12",
-"date_created_gmt": "2021-02-24T16:33:12",
-"date_modified": "2021-02-24T16:33:13",
-"date_modified_gmt": "2021-02-24T16:33:13",
-"type": "simple",
-"status": "publish",
-"featured": false,
-"catalog_visibility": "visible",
-"description": "<p>Acerca de este artículo</p>\n<p>Calidad premium: el forro de ducha 100% poliéster sirve para un uso saludable y de larga duración, aplicable a la decoración del hogar. La tela súper repelente al agua está tratada para dejar que las perlas de agua permanezcan en la superficie, rápido de repeler y secar.<br />\nDiseño elegante: la vaca añade un toque clásico de naturaleza a la decoración de tu baño.<br />\nMedidas: 180 cm de largo y 152 cm de ancho. Incluye 12 ganchos de plástico. No necesita forro.<br />\nFácil cuidado: lavable a máquina y de secado rápido para tu comodidad.<br />\nPersonalización: alfombrilla de baño a juego, alfombrilla de contorno, cubierta de tapa de inodoro.</p>\n",
-"enable_html_description": null,
-"short_description": "<p>Información de producto<br />\nEspecificaciones técnicas<br />\nMarca AMBZEK<br />\nDimensiones del paquete 23 x 13 x 3 cm; 299 g<br />\nMaterial Poliéster<br />\nPeso del producto 299 g<br />\nInformación adicional<br />\nASIN B08CDMZ1X9<br />\nOpinión media de los clientes 4.6 de 5 estrellas 8 calificaciones</p>\n<p>4.6 de 5 estrellas<br />\nProducto en Amazon.com.mx desde 6 septiembre 2020<br />\nFabricante AMBZEK</p>\n",
-"enable_html_short_description": null,
-"sku": "250",
-"price": 371,
-"regular_price": 371,
-"sale_price": null,
-"date_on_sale_from": null,
-"date_on_sale_from_gmt": null,
-"date_on_sale_to": null,
-"date_on_sale_to_gmt": null,
-"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>371</bdi></span>",
-"on_sale": false,
-"purchasable": true,
-"total_sales": 16,
-"_virtual": false,
-"downloadable": false,
-"downloads": [],
-"download_limit": -1,
-"download_expiry": -1,
-"external_url": "",
-"button_text": "",
-"tax_status": "taxable",
-"tax_class": "",
-"manage_stock": false,
-"stock_quantity": null,
-"stock_status": "instock",
-"backorders": "no",
-"backorders_allowed": false,
-"backordered": false,
-"sold_individually": false,
-"weight": null,
-"dimensions": {
-"length": "",
-"width": "",
-"height": ""
-},
-"shipping_required": true,
-"shipping_taxable": true,
-"shipping_class": "",
-"shipping_class_id": "0",
-"reviews_allowed": true,
-"average_rating": "0.00",
-"rating_count": 0,
-"related_ids": [
-52,
-50
+10211,
+10227,
+10219,
+10154,
+10189
 ],
 "upsell_ids": [],
 "cross_sell_ids": [],
@@ -482,22 +144,33 @@
 "purchase_note": "",
 "categories": [
 {
-"id": 20,
-"name": "Nutricion",
-"slug": "nutricion"
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
 }
 ],
 "tags": [],
 "images": [
 {
-"id": 49,
-"date_created": "2021-02-24T16:31:17",
-"date_created_gmt": "2021-02-24T16:31:17",
-"date_modified": "2021-02-24T16:31:32",
-"date_modified_gmt": "2021-02-24T16:31:32",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/16186-300x300-1.png",
-"name": "16186-300&#215;300",
-"alt": "PREPARTO PLUS 40 KG",
+"id": 10304,
+"date_created": "2020-11-06T20:59:58",
+"date_created_gmt": "2020-11-06T20:59:58",
+"date_modified": "2020-11-06T20:59:58",
+"date_modified_gmt": "2020-11-06T20:59:58",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87471_1-1.jpg",
+"name": "87471_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10303,
+"date_created": "2020-11-06T20:59:55",
+"date_created_gmt": "2020-11-06T20:59:55",
+"date_modified": "2020-11-06T20:59:55",
+"date_modified_gmt": "2020-11-06T20:59:55",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87471_2-1.jpg",
+"name": "87471_2",
+"alt": "",
 "position": null
 }
 ],
@@ -506,37 +179,143 @@
 "variations": [],
 "grouped_products": [],
 "menu_order": 0,
-"meta_data": []
+"meta_data": [
+{
+"id": 19383,
+"key": "_wp_page_template",
+"value": "default"
 },
 {
-"id": 45,
-"name": "CAN PLANET CACHORRO 15 KG",
-"slug": "can-planet-cachorro-15-kg",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/can-planet-cachorro-15-kg/",
-"date_created": "2021-02-24T16:28:28",
-"date_created_gmt": "2021-02-24T16:28:28",
-"date_modified": "2021-02-26T14:48:32",
-"date_modified_gmt": "2021-02-26T14:48:32",
+"id": 19384,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19385,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19386,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19420,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19422,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19423,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19424,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19425,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19426,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19427,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19428,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19429,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19430,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19431,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19432,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19433,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19434,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19435,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19436,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19437,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10299,
+"name": "BUFFERVER 950 ML",
+"slug": "",
+"permalink": "https://agrifarm.com.mx/?post_type=product&p=10299",
+"date_created": null,
+"date_created_gmt": null,
+"date_modified": "2020-11-06T20:57:40",
+"date_modified_gmt": "2020-11-06T20:57:40",
 "type": "simple",
-"status": "publish",
+"status": "draft",
 "featured": false,
 "catalog_visibility": "visible",
-"description": "<p>Costal de 20 kilos Alimenta su destreza como vigía, guardia, cobrador o en cursos de obstáculos. La fórmula de Petline Activo es ideal para todos aquellos perros que quieren permanecer audaces y contentos. El alto contenido de proteína y los mejores ingredientes sin saborizantes artificiales le darán energía, vitalidad y una excelente nutrición a tu perro y al mismo tiempo cuidarán su salud.</p>\n",
+"description": "<h4 align=\"justify\">Bufferver ® La alcalinidad del agua se presenta cuando el valor del pH es arriba de 8.0, sin embargo, para el caso de la mayoría de los plaguicidas, valores de pH de 6.0 o mayores pueden generar una reacción denominada Hidrólisis alcalina. Esta reacción rompe la molécula del ingrediente activo del plaguicida provocando así fallas en el control de las plagas.<br />\nBufferver ® es un producto que se utiliza para mantener el pH balanceado del agua.</p>\n</h4>\n",
 "enable_html_description": null,
-"short_description": "<p>Garantiza el desarrollo de músculos, huesos y crecimiento de tu mascota ofreciéndole los nutrientes adecuados para su edad.</p>\n",
+"short_description": "<h4 align=\"justify\">Bufferver ® es un producto que se utiliza para mantener el pH balanceado del agua.<br />\n</h4>\n",
 "enable_html_short_description": null,
-"sku": "10",
-"price": 470,
-"regular_price": 470,
+"sku": "",
+"price": null,
+"regular_price": null,
 "sale_price": null,
 "date_on_sale_from": null,
 "date_on_sale_from_gmt": null,
 "date_on_sale_to": null,
 "date_on_sale_to_gmt": null,
-"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>470</bdi></span>",
+"price_html": "",
 "on_sale": false,
-"purchasable": true,
-"total_sales": 10,
+"purchasable": false,
+"total_sales": 0,
 "_virtual": false,
 "downloadable": false,
 "downloads": [],
@@ -546,9 +325,9 @@
 "button_text": "",
 "tax_status": "taxable",
 "tax_class": "",
-"manage_stock": true,
-"stock_quantity": 0,
-"stock_status": "outofstock",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
 "backorders": "no",
 "backorders_allowed": false,
 "backordered": false,
@@ -566,70 +345,15 @@
 "reviews_allowed": true,
 "average_rating": "0.00",
 "rating_count": 0,
-"related_ids": [
-43
-],
-"upsell_ids": [
-43
-],
+"related_ids": [],
+"upsell_ids": [],
 "cross_sell_ids": [],
 "parent_id": 0,
 "purchase_note": "",
-"categories": [
-{
-"id": 19,
-"name": "Mascotas",
-"slug": "mascotas"
-}
-],
+"categories": [],
 "tags": [],
-"images": [
-{
-"id": 47,
-"date_created": "2021-02-24T16:28:18",
-"date_created_gmt": "2021-02-24T16:28:18",
-"date_modified": "2021-02-24T16:28:25",
-"date_modified_gmt": "2021-02-24T16:28:25",
-"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/10/66037_1.jpg",
-"name": "66037-300&#215;300",
-"alt": "CAN PLANET CACHORRO 15 KG",
-"position": null
-},
-{
-"id": 48,
-"date_created": "2021-02-24T16:28:18",
-"date_created_gmt": "2021-02-24T16:28:18",
-"date_modified": "2021-02-24T16:28:25",
-"date_modified_gmt": "2021-02-24T16:28:25",
-"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/10/66037_2.jpg",
-"name": "66037-300&#215;300",
-"alt": "CAN PLANET CACHORRO 15 KG",
-"position": null
-},
-{
-"id": 49,
-"date_created": "2021-02-24T16:28:18",
-"date_created_gmt": "2021-02-24T16:28:18",
-"date_modified": "2021-02-24T16:28:25",
-"date_modified_gmt": "2021-02-24T16:28:25",
-"src": "https://optimus-host.com/agrifarm/wp-content/uploads/2020/10/66037_3.jpg",
-"name": "66037-300&#215;300",
-"alt": "CAN PLANET CACHORRO 15 KG",
-"position": null
-}  
-],
-"attributes": [
-{
-"id": 1,
-"name": "Alimentos",
-"position": 0,
-"visible": true,
-"variation": false,
-"options": [
-"Cachorro"
-]
-}
-],
+"images": [],
+"attributes": [],
 "default_attributes": [],
 "variations": [],
 "grouped_products": [],
@@ -637,34 +361,34 @@
 "meta_data": []
 },
 {
-"id": 43,
-"name": "CAN PLANET ADULTO 25 KG",
-"slug": "can-planet-adulto-25-kg",
-"permalink": "http://192.1.150.239:8080/wordpress/producto/can-planet-adulto-25-kg/",
-"date_created": "2021-02-24T16:20:52",
-"date_created_gmt": "2021-02-24T16:20:52",
-"date_modified": "2021-03-16T18:49:45",
-"date_modified_gmt": "2021-03-16T18:49:45",
+"id": 10295,
+"name": "CORAZA 720",
+"slug": "coraza-720",
+"permalink": "https://agrifarm.com.mx/product/coraza-720/",
+"date_created": "2020-11-06T20:55:57",
+"date_created_gmt": "2020-11-06T20:55:57",
+"date_modified": "2020-11-06T20:55:57",
+"date_modified_gmt": "2020-11-06T20:55:57",
 "type": "simple",
 "status": "publish",
-"featured": true,
+"featured": false,
 "catalog_visibility": "visible",
-"description": "<p>Características de Purina Dog Chow Vida Sana Digestión Sana Perro Adulto</p>\n<p>Mascota recomendada: Perro</p>\n<p>Tamaño de la raza: Mediana/Grande</p>\n<p>Sabor: Mix</p>\n<p>Etapa de vida de la mascota: Adulto</p>\n<p>Tipo de comida: Seca<br />\nCaracterísticas generales<br />\nFabricante<br />\nPurina<br />\nMarca<br />\nDog Chow<br />\nLínea<br />\nVida Sana<br />\nNombre<br />\nDigestión Sana<br />\nCaracterísticas de la mascota<br />\nMascota recomendada<br />\nPerro<br />\nEtapa de vida de la mascota<br />\nAdulto<br />\nTamaño de la raza<br />\nMediana/Grande<br />\nEspecificaciones<br />\nSabor<br />\nMix<br />\nPeso de la unidad<br />\n25 kg<br />\nTipo de envase<br />\nBolsa<br />\nTipo de comida<br />\nSeca</p>\n",
+"description": "<h4 align=\"justify\">Inhibe la respiración de las células del hongo. Las enzimas que afectan al ciclo de Krebs se desactivan y no se produce ATP. Al no poder completar este proceso esencial, la célula muere. Se considera que Clorotalonil actúa como un fungitóxico general, no específico. Se caracteriza por ser de acción rápida, acumulándose grandes cantidades en las células del hongo y reaccionando indiscriminadamente con los componentes celulares. Los<br />\nsíntomas generales de la interacción entre el Clorotalonil y las células fúngicas son el retardo en el crecimiento del micelio y la inhibición de la germinación de<br />\nlas esporas.<br />\n</h4>\n",
 "enable_html_description": null,
-"short_description": "<p>Lo que tienes que saber de este producto</p>\n<p>Recomendado para perro adulto.<br />\nFormulado especialmente para razas medianas/grandes.<br />\nComida seca, ideal para eliminar el sarro.<br />\nExquisito sabor y nutrición completa para tu mascota.<br />\nImagen ilustrativa. El paquete puede variar según el peso.</p>\n",
+"short_description": "<h4 align=\"justify\">Se considera que Coraza 720 actúa como un fungitóxico general.<br />\n</h4>\n",
 "enable_html_short_description": null,
-"sku": "100",
-"price": 449.99,
-"regular_price": 487.55,
-"sale_price": 449.99,
+"sku": "87400",
+"price": 224.72,
+"regular_price": 224.72,
+"sale_price": null,
 "date_on_sale_from": null,
 "date_on_sale_from_gmt": null,
 "date_on_sale_to": null,
 "date_on_sale_to_gmt": null,
-"price_html": "<del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>488</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>450</bdi></span></ins>",
-"on_sale": true,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>224.72</bdi></span>",
+"on_sale": false,
 "purchasable": true,
-"total_sales": 2,
+"total_sales": 0,
 "_virtual": false,
 "downloadable": false,
 "downloads": [],
@@ -695,7 +419,11 @@
 "average_rating": "0.00",
 "rating_count": 0,
 "related_ids": [
-45
+10215,
+10154,
+10223,
+10219,
+10135
 ],
 "upsell_ids": [],
 "cross_sell_ids": [],
@@ -703,74 +431,1431 @@
 "purchase_note": "",
 "categories": [
 {
-"id": 19,
-"name": "Mascotas",
-"slug": "mascotas"
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
 }
 ],
 "tags": [],
 "images": [
 {
-"id": 44,
-"date_created": "2021-02-24T16:18:42",
-"date_created_gmt": "2021-02-24T16:18:42",
-"date_modified": "2021-02-24T16:20:32",
-"date_modified_gmt": "2021-02-24T16:20:32",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/66038-300x300-1.png",
-"name": "66038-300&#215;300",
-"alt": "CAN PLANET ADULTO 25 KG",
-"position": null
-},
-{
-"id": 66,
-"date_created": "2021-03-16T18:48:27",
-"date_created_gmt": "2021-03-16T18:48:27",
-"date_modified": "2021-03-16T18:48:27",
-"date_modified_gmt": "2021-03-16T18:48:27",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/66037_1.jpeg",
-"name": "66037_1",
+"id": 10297,
+"date_created": "2020-11-06T20:55:37",
+"date_created_gmt": "2020-11-06T20:55:37",
+"date_modified": "2020-11-06T20:55:37",
+"date_modified_gmt": "2020-11-06T20:55:37",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87400_1.jpg",
+"name": "87400_1",
 "alt": "",
 "position": null
 },
 {
-"id": 67,
-"date_created": "2021-03-16T18:48:33",
-"date_created_gmt": "2021-03-16T18:48:33",
-"date_modified": "2021-03-16T18:48:33",
-"date_modified_gmt": "2021-03-16T18:48:33",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/66037_2.jpeg",
-"name": "66037_2",
-"alt": "",
-"position": null
-},
-{
-"id": 68,
-"date_created": "2021-03-16T18:48:37",
-"date_created_gmt": "2021-03-16T18:48:37",
-"date_modified": "2021-03-16T18:48:37",
-"date_modified_gmt": "2021-03-16T18:48:37",
-"src": "http://192.1.150.239:8080/wordpress/wp-content/uploads/2021/02/66037_3.jpeg",
-"name": "66037_3",
+"id": 10296,
+"date_created": "2020-11-06T20:55:35",
+"date_created_gmt": "2020-11-06T20:55:35",
+"date_modified": "2020-11-06T20:55:35",
+"date_modified_gmt": "2020-11-06T20:55:35",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87400_2.jpg",
+"name": "87400_2",
 "alt": "",
 "position": null
 }
 ],
-"attributes": [
-{
-"id": 1,
-"name": "Alimentos",
-"position": 2,
-"visible": true,
-"variation": false,
-"options": [
-"Adulto"
-]
-}
-],
+"attributes": [],
 "default_attributes": [],
 "variations": [],
 "grouped_products": [],
 "menu_order": 0,
-"meta_data": []
+"meta_data": [
+{
+"id": 19315,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 19316,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19317,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19318,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19352,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19354,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19355,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19356,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19357,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19358,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19359,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19360,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19361,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19362,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19363,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19364,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19365,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19366,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19367,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19368,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19369,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10291,
+"name": "SURFARE 1 LT",
+"slug": "surfare-1-lt",
+"permalink": "https://agrifarm.com.mx/product/surfare-1-lt/",
+"date_created": "2020-11-06T20:53:20",
+"date_created_gmt": "2020-11-06T20:53:20",
+"date_modified": "2020-11-06T20:53:21",
+"date_modified_gmt": "2020-11-06T20:53:21",
+"type": "simple",
+"status": "publish",
+"featured": false,
+"catalog_visibility": "visible",
+"description": "<h4 align=\"justify\">Surfare es un surfactante líquido multifuncional de alta concentración de diferentes ingredientes activos que permiten tener un alto poder humectante, penetrante de diferentes ingredientes activos que permiten tener un alto poder humectante, penetrante y acidificante. Fue específicamente diseñado como coadyuvante para las aplicaciones foliares de agroquímicos.<br />\nAdemás ejerce una función antiespumante.<br />\n</h4>\n",
+"enable_html_description": null,
+"short_description": "<h4 align=\"justify\">Surfare es un surfactante líquido multifuncional de alta concentración de diferentes ingredientes activos que permiten tener un alto poder humectante.<br />\n</h4>\n",
+"enable_html_short_description": null,
+"sku": "087711",
+"price": 274.7,
+"regular_price": 274.7,
+"sale_price": null,
+"date_on_sale_from": null,
+"date_on_sale_from_gmt": null,
+"date_on_sale_to": null,
+"date_on_sale_to_gmt": null,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>274.70</bdi></span>",
+"on_sale": false,
+"purchasable": true,
+"total_sales": 0,
+"_virtual": false,
+"downloadable": false,
+"downloads": [],
+"download_limit": -1,
+"download_expiry": -1,
+"external_url": "",
+"button_text": "",
+"tax_status": "taxable",
+"tax_class": "",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
+"backorders": "no",
+"backorders_allowed": false,
+"backordered": false,
+"sold_individually": false,
+"weight": null,
+"dimensions": {
+"length": "",
+"width": "",
+"height": ""
+},
+"shipping_required": true,
+"shipping_taxable": true,
+"shipping_class": "",
+"shipping_class_id": "0",
+"reviews_allowed": true,
+"average_rating": "0.00",
+"rating_count": 0,
+"related_ids": [
+10211,
+10133,
+10176,
+10144,
+10180
+],
+"upsell_ids": [],
+"cross_sell_ids": [],
+"parent_id": 0,
+"purchase_note": "",
+"categories": [
+{
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
+}
+],
+"tags": [],
+"images": [
+{
+"id": 10293,
+"date_created": "2020-11-06T20:52:51",
+"date_created_gmt": "2020-11-06T20:52:51",
+"date_modified": "2020-11-06T20:52:51",
+"date_modified_gmt": "2020-11-06T20:52:51",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87711_1.jpg",
+"name": "87711_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10292,
+"date_created": "2020-11-06T20:52:49",
+"date_created_gmt": "2020-11-06T20:52:49",
+"date_modified": "2020-11-06T20:52:49",
+"date_modified_gmt": "2020-11-06T20:52:49",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87711_2.jpg",
+"name": "87711_2",
+"alt": "",
+"position": null
+}
+],
+"attributes": [],
+"default_attributes": [],
+"variations": [],
+"grouped_products": [],
+"menu_order": 0,
+"meta_data": [
+{
+"id": 19253,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 19254,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19255,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19256,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19290,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19292,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19293,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19294,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19295,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19296,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19297,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19298,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19299,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19300,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19301,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19302,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19303,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19304,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19305,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19306,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19307,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10287,
+"name": "TORDON 101 BOT 1 LTO",
+"slug": "tordon-101-bot-1-lto",
+"permalink": "https://agrifarm.com.mx/product/tordon-101-bot-1-lto/",
+"date_created": "2020-11-06T20:51:17",
+"date_created_gmt": "2020-11-06T20:51:17",
+"date_modified": "2020-11-06T20:51:17",
+"date_modified_gmt": "2020-11-06T20:51:17",
+"type": "simple",
+"status": "publish",
+"featured": false,
+"catalog_visibility": "visible",
+"description": "<h4 align=\"justify\">Tordon es un herbicida total que une a la acción de contacto por vía foliar del 2 , 4 – D , la acción de translocación por vía radicular y foliar del picloram, que al mismo tiempo le dota de una gran persistencia.<br />\n</h4>\n",
+"enable_html_description": null,
+"short_description": "<h4 align=\"justify\">Tordon es un herbicida total que une a la acción de contacto por vía foliar.<br />\n</h4>\n",
+"enable_html_short_description": null,
+"sku": "087037",
+"price": 318.07,
+"regular_price": 318.07,
+"sale_price": null,
+"date_on_sale_from": null,
+"date_on_sale_from_gmt": null,
+"date_on_sale_to": null,
+"date_on_sale_to_gmt": null,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>318.07</bdi></span>",
+"on_sale": false,
+"purchasable": true,
+"total_sales": 0,
+"_virtual": false,
+"downloadable": false,
+"downloads": [],
+"download_limit": -1,
+"download_expiry": -1,
+"external_url": "",
+"button_text": "",
+"tax_status": "taxable",
+"tax_class": "",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
+"backorders": "no",
+"backorders_allowed": false,
+"backordered": false,
+"sold_individually": false,
+"weight": null,
+"dimensions": {
+"length": "",
+"width": "",
+"height": ""
+},
+"shipping_required": true,
+"shipping_taxable": true,
+"shipping_class": "",
+"shipping_class_id": "0",
+"reviews_allowed": true,
+"average_rating": "0.00",
+"rating_count": 0,
+"related_ids": [
+10174,
+10198,
+10211,
+10146,
+10223
+],
+"upsell_ids": [],
+"cross_sell_ids": [],
+"parent_id": 0,
+"purchase_note": "",
+"categories": [
+{
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
+}
+],
+"tags": [],
+"images": [
+{
+"id": 10289,
+"date_created": "2020-11-06T20:50:38",
+"date_created_gmt": "2020-11-06T20:50:38",
+"date_modified": "2020-11-06T20:50:38",
+"date_modified_gmt": "2020-11-06T20:50:38",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87037_1.jpg",
+"name": "87037_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10288,
+"date_created": "2020-11-06T20:50:35",
+"date_created_gmt": "2020-11-06T20:50:35",
+"date_modified": "2020-11-06T20:50:35",
+"date_modified_gmt": "2020-11-06T20:50:35",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87037_2.jpg",
+"name": "87037_2",
+"alt": "",
+"position": null
+}
+],
+"attributes": [],
+"default_attributes": [],
+"variations": [],
+"grouped_products": [],
+"menu_order": 0,
+"meta_data": [
+{
+"id": 19191,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 19192,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19193,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19194,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19228,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19230,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19231,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19232,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19233,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19234,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19235,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19236,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19237,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19238,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19239,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19240,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19241,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19242,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19243,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19244,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19245,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10283,
+"name": "ESTERON 47 1 LTS",
+"slug": "esteron-47-1-lts",
+"permalink": "https://agrifarm.com.mx/product/esteron-47-1-lts/",
+"date_created": "2020-11-06T20:49:01",
+"date_created_gmt": "2020-11-06T20:49:01",
+"date_modified": "2020-11-06T20:49:02",
+"date_modified_gmt": "2020-11-06T20:49:02",
+"type": "simple",
+"status": "publish",
+"featured": false,
+"catalog_visibility": "visible",
+"description": "<h4 align=\"justify\">Esteron™ 47 EC es un herbicida recomendado para controlar malezas de hoja ancha que crecen en potreros y cultivos de arroz, cebada, trigo, avena, maíz y sorgo.</p>\n<p>Aplique Esteron™ 47 EC en forma de aspersión mezclado con agua. Para obtener mejores resultados utilícelo cuando las malezas estén creciendo vigorosamente y después que las hojas se hayan desarrollado por completo, es decir, una vez establecido el periodo de lluvias o cuando exista suficiente humedad en el suelo.<br />\n</h4>\n",
+"enable_html_description": null,
+"short_description": "<h4 align=\"justify\">Esteron™ 47 EC es un herbicida recomendado para controlar malezas de hoja ancha que crecen en potreros y cultivos de arroz, cebada, trigo, avena, maíz y sorgo.<br />\n</h4>\n",
+"enable_html_short_description": null,
+"sku": "87063",
+"price": 130.219,
+"regular_price": 130.219,
+"sale_price": null,
+"date_on_sale_from": null,
+"date_on_sale_from_gmt": null,
+"date_on_sale_to": null,
+"date_on_sale_to_gmt": null,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>130.22</bdi></span>",
+"on_sale": false,
+"purchasable": true,
+"total_sales": 0,
+"_virtual": false,
+"downloadable": false,
+"downloads": [],
+"download_limit": -1,
+"download_expiry": -1,
+"external_url": "",
+"button_text": "",
+"tax_status": "taxable",
+"tax_class": "",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
+"backorders": "no",
+"backorders_allowed": false,
+"backordered": false,
+"sold_individually": false,
+"weight": null,
+"dimensions": {
+"length": "",
+"width": "",
+"height": ""
+},
+"shipping_required": true,
+"shipping_taxable": true,
+"shipping_class": "",
+"shipping_class_id": "0",
+"reviews_allowed": true,
+"average_rating": "0.00",
+"rating_count": 0,
+"related_ids": [
+10176,
+10174,
+10135,
+10146,
+10139
+],
+"upsell_ids": [],
+"cross_sell_ids": [],
+"parent_id": 0,
+"purchase_note": "",
+"categories": [
+{
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
+}
+],
+"tags": [],
+"images": [
+{
+"id": 10284,
+"date_created": "2020-11-06T20:48:36",
+"date_created_gmt": "2020-11-06T20:48:36",
+"date_modified": "2020-11-06T20:48:36",
+"date_modified_gmt": "2020-11-06T20:48:36",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87063_1.jpg",
+"name": "87063_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10285,
+"date_created": "2020-11-06T20:48:38",
+"date_created_gmt": "2020-11-06T20:48:38",
+"date_modified": "2020-11-06T20:48:38",
+"date_modified_gmt": "2020-11-06T20:48:38",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87063_2.jpg",
+"name": "87063_2",
+"alt": "",
+"position": null
+}
+],
+"attributes": [],
+"default_attributes": [],
+"variations": [],
+"grouped_products": [],
+"menu_order": 0,
+"meta_data": [
+{
+"id": 19129,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 19130,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19131,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19132,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19166,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19168,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19169,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19170,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19171,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19172,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19173,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19174,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19175,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19176,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19177,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19178,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19179,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19180,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19181,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19182,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19183,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10279,
+"name": "IMAZETHAPYR 100 5 L",
+"slug": "imazethapyr-100-5-l",
+"permalink": "https://agrifarm.com.mx/product/imazethapyr-100-5-l/",
+"date_created": "2020-11-06T20:45:53",
+"date_created_gmt": "2020-11-06T20:45:53",
+"date_modified": "2020-11-06T20:45:53",
+"date_modified_gmt": "2020-11-06T20:45:53",
+"type": "simple",
+"status": "publish",
+"featured": false,
+"catalog_visibility": "visible",
+"description": "<h4 align=\"justify\">Imidazolinona sistémica con actividad herbicida presentada en forma de concentrado soluble. Es absorbida por las raíces y por las hojas, traslocada por el xilema y por el floema y acumulada en las zonas meristémicas. Actúa por inhibición de la acetolactato sintasa reduciendo los contenidos de valina, leucina e isoleucina impidiendo la síntesis de proteínas y de ADN.<br />\n</h4>\n",
+"enable_html_description": null,
+"short_description": "<h4 align=\"justify\">Imidazolinona sistémica con actividad herbicida presentada en forma de concentrado soluble.<br />\n</h4>\n",
+"enable_html_short_description": null,
+"sku": "087549",
+"price": 980.3834,
+"regular_price": 980.3834,
+"sale_price": null,
+"date_on_sale_from": null,
+"date_on_sale_from_gmt": null,
+"date_on_sale_to": null,
+"date_on_sale_to_gmt": null,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>980.38</bdi></span>",
+"on_sale": false,
+"purchasable": true,
+"total_sales": 0,
+"_virtual": false,
+"downloadable": false,
+"downloads": [],
+"download_limit": -1,
+"download_expiry": -1,
+"external_url": "",
+"button_text": "",
+"tax_status": "taxable",
+"tax_class": "",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
+"backorders": "no",
+"backorders_allowed": false,
+"backordered": false,
+"sold_individually": false,
+"weight": null,
+"dimensions": {
+"length": "",
+"width": "",
+"height": ""
+},
+"shipping_required": true,
+"shipping_taxable": true,
+"shipping_class": "",
+"shipping_class_id": "0",
+"reviews_allowed": true,
+"average_rating": "0.00",
+"rating_count": 0,
+"related_ids": [
+10144,
+10206,
+10189,
+10166,
+10223
+],
+"upsell_ids": [],
+"cross_sell_ids": [],
+"parent_id": 0,
+"purchase_note": "",
+"categories": [
+{
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
+}
+],
+"tags": [],
+"images": [
+{
+"id": 10281,
+"date_created": "2020-11-06T20:45:40",
+"date_created_gmt": "2020-11-06T20:45:40",
+"date_modified": "2020-11-06T20:45:40",
+"date_modified_gmt": "2020-11-06T20:45:40",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87549_1.jpg",
+"name": "87549_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10280,
+"date_created": "2020-11-06T20:45:38",
+"date_created_gmt": "2020-11-06T20:45:38",
+"date_modified": "2020-11-06T20:45:38",
+"date_modified_gmt": "2020-11-06T20:45:38",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87549_2.jpg",
+"name": "87549_2",
+"alt": "",
+"position": null
+}
+],
+"attributes": [],
+"default_attributes": [],
+"variations": [],
+"grouped_products": [],
+"menu_order": 0,
+"meta_data": [
+{
+"id": 19067,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 19068,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19069,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19070,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19104,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19106,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19107,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19108,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19109,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19110,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19111,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19112,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19113,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19114,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19115,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19116,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19117,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19118,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19119,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19120,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19121,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10274,
+"name": "MARVEL 1 LITRO",
+"slug": "marvel-1-litro",
+"permalink": "https://agrifarm.com.mx/product/marvel-1-litro/",
+"date_created": "2020-11-06T20:43:43",
+"date_created_gmt": "2020-11-06T20:43:43",
+"date_modified": "2020-11-06T20:43:44",
+"date_modified_gmt": "2020-11-06T20:43:44",
+"type": "simple",
+"status": "publish",
+"featured": false,
+"catalog_visibility": "visible",
+"description": "<h4 align=\"justify\">MARVEL® es un herbicida post-emergente para el control de la maleza que más adelante se indica, en los cultivos de maíz, sorgo, caña de azúcar y pastizales. MARVEL® es un producto que combina la acción sistémica y de contacto controlando la maleza. Use la dosis baja en suelos con bajo contenido de materia orgánica (< 3%) y la dosis alta en suelos con alto contenido de materia orgánica (> 3%). El efecto de protección de MARVEL® está relacionado con la dosis y el contenido de materia orgánica en el suelo, así como la humedad para lograr la movilidad del herbicida hacia la raíz de la maleza.<br />\n</h4>\n",
+"enable_html_description": null,
+"short_description": "<h4 align=\"justify\">MARVEL® es un herbicida post-emergente para el control de la maleza que más adelante se indica, en los cultivos de maíz, sorgo, caña de azúcar y pastizales.<br />\n</h4>\n",
+"enable_html_short_description": null,
+"sku": "087721",
+"price": 416.1666,
+"regular_price": 416.1666,
+"sale_price": null,
+"date_on_sale_from": null,
+"date_on_sale_from_gmt": null,
+"date_on_sale_to": null,
+"date_on_sale_to_gmt": null,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>416.17</bdi></span>",
+"on_sale": false,
+"purchasable": true,
+"total_sales": 0,
+"_virtual": false,
+"downloadable": false,
+"downloads": [],
+"download_limit": -1,
+"download_expiry": -1,
+"external_url": "",
+"button_text": "",
+"tax_status": "taxable",
+"tax_class": "",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
+"backorders": "no",
+"backorders_allowed": false,
+"backordered": false,
+"sold_individually": false,
+"weight": null,
+"dimensions": {
+"length": "",
+"width": "",
+"height": ""
+},
+"shipping_required": true,
+"shipping_taxable": true,
+"shipping_class": "",
+"shipping_class_id": "0",
+"reviews_allowed": true,
+"average_rating": "0.00",
+"rating_count": 0,
+"related_ids": [
+10198,
+10150,
+10223,
+10154,
+10158
+],
+"upsell_ids": [],
+"cross_sell_ids": [],
+"parent_id": 0,
+"purchase_note": "",
+"categories": [
+{
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
+}
+],
+"tags": [],
+"images": [
+{
+"id": 10276,
+"date_created": "2020-11-06T20:43:16",
+"date_created_gmt": "2020-11-06T20:43:16",
+"date_modified": "2020-11-06T20:43:16",
+"date_modified_gmt": "2020-11-06T20:43:16",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87721_1.jpg",
+"name": "87721_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10275,
+"date_created": "2020-11-06T20:43:14",
+"date_created_gmt": "2020-11-06T20:43:14",
+"date_modified": "2020-11-06T20:43:14",
+"date_modified_gmt": "2020-11-06T20:43:14",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87721_2.jpg",
+"name": "87721_2",
+"alt": "",
+"position": null
+}
+],
+"attributes": [],
+"default_attributes": [],
+"variations": [],
+"grouped_products": [],
+"menu_order": 0,
+"meta_data": [
+{
+"id": 19005,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 19006,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 19007,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 19008,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 19042,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 19044,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 19045,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 19046,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 19047,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 19048,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 19049,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 19050,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 19051,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 19052,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 19053,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 19054,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 19055,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 19056,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 19057,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 19058,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 19059,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
+},
+{
+"id": 10270,
+"name": "YARA VITA MAIZE BOOST/CROP BOOST 1 LT",
+"slug": "yara-vita-maize-boost-crop-boost-1-lt",
+"permalink": "https://agrifarm.com.mx/product/yara-vita-maize-boost-crop-boost-1-lt/",
+"date_created": "2020-11-06T20:40:30",
+"date_created_gmt": "2020-11-06T20:40:30",
+"date_modified": "2020-11-06T20:40:30",
+"date_modified_gmt": "2020-11-06T20:40:30",
+"type": "simple",
+"status": "publish",
+"featured": false,
+"catalog_visibility": "visible",
+"description": "<h4 align=\"justify\">YaraVita Crop Boost es un producto de fosfato foliar. Este líquido concentrado está diseñados para proporcionar una acción rápida para planta de combustible energía, para fortalecer los cultivos durante los períodos de crecimiento rápido o para ayudar a los cultivos superar las condiciones climáticas adversas. YaraVita Crop Boost es una combinación equilibrada de nutrientes diseñado específicamente para la cosecha de maíz<br />\n</h4>\n",
+"enable_html_description": null,
+"short_description": "<h4 align=\"justify\">YaraVita Crop Boost es un producto de fosfato foliar.<br />\n</h4>\n",
+"enable_html_short_description": null,
+"sku": "087691",
+"price": 170.66,
+"regular_price": 170.66,
+"sale_price": null,
+"date_on_sale_from": null,
+"date_on_sale_from_gmt": null,
+"date_on_sale_to": null,
+"date_on_sale_to_gmt": null,
+"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>170.66</bdi></span>",
+"on_sale": false,
+"purchasable": true,
+"total_sales": 0,
+"_virtual": false,
+"downloadable": false,
+"downloads": [],
+"download_limit": -1,
+"download_expiry": -1,
+"external_url": "",
+"button_text": "",
+"tax_status": "taxable",
+"tax_class": "",
+"manage_stock": false,
+"stock_quantity": null,
+"stock_status": "instock",
+"backorders": "no",
+"backorders_allowed": false,
+"backordered": false,
+"sold_individually": false,
+"weight": null,
+"dimensions": {
+"length": "",
+"width": "",
+"height": ""
+},
+"shipping_required": true,
+"shipping_taxable": true,
+"shipping_class": "",
+"shipping_class_id": "0",
+"reviews_allowed": true,
+"average_rating": "0.00",
+"rating_count": 0,
+"related_ids": [
+10139,
+10146,
+10150,
+10166,
+10185
+],
+"upsell_ids": [],
+"cross_sell_ids": [],
+"parent_id": 0,
+"purchase_note": "",
+"categories": [
+{
+"id": 69,
+"name": "Agrícola",
+"slug": "agricola"
+}
+],
+"tags": [],
+"images": [
+{
+"id": 10272,
+"date_created": "2020-11-06T20:40:05",
+"date_created_gmt": "2020-11-06T20:40:05",
+"date_modified": "2020-11-06T20:40:05",
+"date_modified_gmt": "2020-11-06T20:40:05",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87691_1.jpg",
+"name": "87691_1",
+"alt": "",
+"position": null
+},
+{
+"id": 10271,
+"date_created": "2020-11-06T20:40:02",
+"date_created_gmt": "2020-11-06T20:40:02",
+"date_modified": "2020-11-06T20:40:02",
+"date_modified_gmt": "2020-11-06T20:40:02",
+"src": "https://agrifarm.com.mx/wp-content/uploads/2020/11/87691_2.jpg",
+"name": "87691_2",
+"alt": "",
+"position": null
+}
+],
+"attributes": [],
+"default_attributes": [],
+"variations": [],
+"grouped_products": [],
+"menu_order": 0,
+"meta_data": [
+{
+"id": 18943,
+"key": "_wp_page_template",
+"value": "default"
+},
+{
+"id": 18944,
+"key": "woodmart_sguide_select",
+"value": "none"
+},
+{
+"id": 18945,
+"key": "slide_template",
+"value": ""
+},
+{
+"id": 18946,
+"key": "rs_page_bg_color",
+"value": ""
+},
+{
+"id": 18980,
+"key": "woodmart_total_stock_quantity",
+"value": ""
+},
+{
+"id": 18982,
+"key": "_product_360_image_gallery",
+"value": ""
+},
+{
+"id": 18983,
+"key": "_woodmart_whb_header",
+"value": "none"
+},
+{
+"id": 18984,
+"key": "_woodmart_main_layout",
+"value": "default"
+},
+{
+"id": 18985,
+"key": "_woodmart_sidebar_width",
+"value": "default"
+},
+{
+"id": 18986,
+"key": "_woodmart_custom_sidebar",
+"value": "none"
+},
+{
+"id": 18987,
+"key": "_woodmart_product_design",
+"value": "inherit"
+},
+{
+"id": 18988,
+"key": "_woodmart_single_product_style",
+"value": "inherit"
+},
+{
+"id": 18989,
+"key": "_woodmart_thums_position",
+"value": "inherit"
+},
+{
+"id": 18990,
+"key": "_woodmart_product-background",
+"value": ""
+},
+{
+"id": 18991,
+"key": "_woodmart_extra_content",
+"value": "0"
+},
+{
+"id": 18992,
+"key": "_woodmart_extra_position",
+"value": "after"
+},
+{
+"id": 18993,
+"key": "_woodmart_product_custom_tab_title",
+"value": ""
+},
+{
+"id": 18994,
+"key": "_woodmart_product_custom_tab_content",
+"value": ""
+},
+{
+"id": 18995,
+"key": "_woodmart_swatches_attribute",
+"value": ""
+},
+{
+"id": 18996,
+"key": "_woodmart_product_video",
+"value": ""
+},
+{
+"id": 18997,
+"key": "_woodmart_product_hashtag",
+"value": ""
+}
+]
 }
 ]
